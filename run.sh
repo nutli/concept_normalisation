@@ -1,0 +1,1 @@
+python concept_normalisation.py --batch_size 50 --train AskAPatient.fold-0.train.txt --dev AskAPatient.fold-0.validation.txt --test AskAPatient.fold-0.test.txt --embedding random --network rnn --num_epochs 50
